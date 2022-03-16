@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          123456
+          1234
           Learn React with Reemanshi Chugh
         </a>
       </header>
